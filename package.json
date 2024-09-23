@@ -1,0 +1,16 @@
+{
+  "name": "desafio-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^9.0.1",
+    "cypress": "^13.14.2"
+  }
+}
